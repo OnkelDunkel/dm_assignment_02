@@ -1,5 +1,4 @@
-# Discrete Mathematics - Assignment 2 - Programming with
-predicates
+# Discrete Mathematics - Assignment 2 - Programming with predicates
 
 ### Suggested queries
 
